@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Milena
-- 🌱 I’m currently In the process of professional reorientation towards product management
-- 🚗 Right now, I am taking part in a web development bootcamp with Le Wagon to learn how to develop web & AI applications
-- 💫 I am passionate about disruptive and future changing tech solutions and product strategy
-- 👀 I’m interested in developing my skills and understanding more about AI and machine learning
+👋 Hi, I’m Milena
+I have taken part in a web development bootcamp with Le Wagon (Oct-Dec 2024) to gain knowledge about how to develop web & AI applications
+I am a product passionate and am enthusiastic about disruptive and future changing tech solutions as well as product strategy
+I’m interested in developing my skills and understanding more about AI and machine learning
 
 <!---
 The-Milena/The-Milena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
